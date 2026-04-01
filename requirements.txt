@@ -1,0 +1,23 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+plotly
+
+scikit-learn
+
+# Deep learning 
+torch
+torchvision
+torchaudio
+tensorflow
+
+jupyterlab
+notebook
+ipykernel
+
+#tqdm
+#joblib
+#lightgbm
+#requests
