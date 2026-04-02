@@ -1,5 +1,9 @@
 # DataScience-portfolio
-Several Data Science and ML project examples 
+Several Data Science and ML project examples: 
+
+    01-clinical-trial-dropout 
+    ...
+
 
 Instructions:
 
