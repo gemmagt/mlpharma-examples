@@ -1,7 +1,7 @@
 # DataScience-portfolio
 Several Data Science and ML project examples: 
 
-    01-clinical-trial-dropout 
+    01-clinical-readmission-prediction
     ...
 
 

@@ -16,6 +16,10 @@ tensorflow
 jupyterlab
 notebook
 ipykernel
+ipymplS
+ipywidgets
+
+kagglehub
 
 #tqdm
 #joblib
