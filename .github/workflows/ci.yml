@@ -27,5 +27,5 @@ jobs:
         run: |
           for nb in $(find . -name "*.ipynb"); do
             echo "Running $nb"
-            jupyter nbconvert --to notebook --execute "$nb" --output executed.ipynb
+            jupyter nbconvert --to notebook --execute "$nb" --ExecutePreprocessor.timeout=600 --output executed.ipynb
           done

@@ -16,7 +16,7 @@ tensorflow
 jupyterlab
 notebook
 ipykernel
-ipymplS
+#ipymplS
 ipywidgets
 
 kagglehub
