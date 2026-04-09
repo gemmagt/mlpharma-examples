@@ -17,7 +17,7 @@ jupyterlab
 notebook
 ipykernel
 #ipymplS
-ipywidgets
+#ipywidgets
 
 kagglehub
 
