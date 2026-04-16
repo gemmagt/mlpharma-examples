@@ -24,4 +24,4 @@ docker build -t project . && docker run -p 8888:8888 project
 ## Contact
 Open to data science and ML engineering roles in pharma, biotech, and health tech — based in Heidelberg (Germany) or Barcelona (Spain), open to remote.
 
-📧 gemma.gonzaleztora@gmail.com · 🐙 github.com/gemmagt
+📧 gemma.gonzaleztora@gmail.com · 🐙 github.com/gemmagt    
