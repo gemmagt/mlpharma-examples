@@ -16,8 +16,8 @@ This repository contains a set of end-to-end Data Science projects applied to ph
 
 To run any project locally:
 ```bash
-git clone https://github.com/gemmagt/pharma-ml-portfolio
-cd pharma-ml-portfolio/01-clinical-trial-dropout
+git clone https://github.com/gemmagt/DataScience-portfolio
+cd DataScience-portfolio/
 docker build -t project . && docker run -p 8888:8888 project
 ```
 
