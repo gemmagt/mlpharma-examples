@@ -18,11 +18,11 @@ Predict whether patients will be readmitted within 30 days.
 7. Analyze results: review key features, assess metrics (e.g., ROC-AUC), and consider risks such as false positives.
 
 ## Project Structure
-'''
+```
 01-clinical-readmission-prediction/
 ├── clinical-readmission-prediction.ipynb  # Main Jupyter notebook
 └── hospital.db                           # SQLite database with cleaned dataset
-'''
+```
 
 ## Reproducibility
 This project is fully reproducible using a Docker-based setup (see the `Dockerfile` in the root repository) and includes Continuous Integration (CI) via GitHub Actions.

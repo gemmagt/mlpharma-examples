@@ -18,13 +18,13 @@ Detect pneumonia from chest X-ray images.
 7. Analyze results: review key features, assess metrics (e.g., ROC-AUC), and consider risks such as false positives.
 
 ## Project Structure
-'''
+```
 02-medical-imaging/
 ├── medical-imaging.ipynb  # Main Jupyter notebook
 └── medical_imaging.db                           # SQLite database with cleaned dataset
 └──models/
     └── best_model.pth  # Best built model
-'''
+```
 
 ## Reproducibility
 This project is fully reproducible using a Docker-based setup (see the `Dockerfile` in the root repository) and includes Continuous Integration (CI) via GitHub Actions.
