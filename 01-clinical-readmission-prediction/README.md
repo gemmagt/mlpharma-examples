@@ -9,8 +9,8 @@ As an astrophysicist and data scientist driven by curiosity, I am particularly i
 Predict whether patients will be readmitted within 30 days.
 
 ## Methodology
-1. Download a patient dataset, in this case: *"chawthinn21/uci-diabetes-readmission-dataset-encoded"* (available on Kaggle).
-2. Perform data cleaning using SQL within a Jupyter Notebook (an example is included, although the dataset is already preprocessed).
+1. Download a patient dataset, in this case: *"brandao/diabetes"* (available on Kaggle).
+2. Perform data cleaning using pandas and SQL within a Jupyter Notebook.
 3. Explore and prepare the dataset: clean columns, remove irrelevant features, and construct a trainable dataset.
 4. Split the data into training and testing sets.
 5. Train models using **Random Forest** and **Logistic Regression**.
